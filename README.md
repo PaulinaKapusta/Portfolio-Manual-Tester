@@ -23,6 +23,7 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * TestLink
 * Trello
 * Slack
+* Notion
 * Other : HTML, CSS, Wordpress 
 
 ## Courses
