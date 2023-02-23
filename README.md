@@ -19,6 +19,7 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * Database : MySQL basics
 * Languages : JavaScript basics 
 * Testing: Postman
+* Dev Tools
 * Jira : Reporting issues, creating filters
 * TestLink
 * Trello
