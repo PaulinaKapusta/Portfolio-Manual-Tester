@@ -1,4 +1,4 @@
-**About me**
+##About me##
 A few words about me, professional experience
 
 My name is Paulina. A few months ago I decided to retrain and start working as a manual tester.
