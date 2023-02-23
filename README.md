@@ -11,7 +11,7 @@ The source of my knowledge was the publications of **experienced mentors/testers
 
 **From November 2022 to February 2023 I did an internship as a manual tester** in a software testing company where I had the opportunity to participate in many projects (web and desktop applications), thanks to which I gained my first experience in performing manual tests.
 
-The internship confirmed my belief that the job of a tester is right for me. I like to test, because every day you learn something new, every day you can develop. I really like to investigate new features, to look for defects, to discuss different issues with the team.
+`#0969DA`The internship confirmed my belief that the job of a tester is right for me. I like to test, because every day you learn something new, every day you can develop. I really like to investigate new features, to look for defects, to discuss different issues with the team.
 
 ## Skills
 
