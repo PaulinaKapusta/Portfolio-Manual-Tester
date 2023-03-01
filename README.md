@@ -20,7 +20,7 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * Testing: Postman
 * Dev Tools
 * Jira : Reporting issues, creating filters
-* TestLink
+* qTest
 * Trello
 * Slack
 * Notion
