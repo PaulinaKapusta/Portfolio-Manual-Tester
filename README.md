@@ -43,5 +43,5 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
 ## Attachments
-* [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- detailed list of specific checks for each functionality (on the example of one module) 
-* [Postman - Trello Task](https://drive.google.com/file/d/1242jmtHi_0-gY2qkCpe3rgZGKZfdSWzC/view?usp=sharing)
+* [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- Detailed list of specific checks for each functionality (on the example of one module) 
+* [Postman - Trello Task](https://drive.google.com/file/d/1242jmtHi_0-gY2qkCpe3rgZGKZfdSWzC/view?usp=sharing)- A collection with sample requests: GET, POST, PUT, DELETE. Basic API tests. 
