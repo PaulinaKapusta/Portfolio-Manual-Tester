@@ -44,3 +44,4 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 
 ## Attachments
 * [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- detailed list of specific checks for each functionality (on the example of one module) 
+* [Postman - Trello Task](https://drive.google.com/file/d/1242jmtHi_0-gY2qkCpe3rgZGKZfdSWzC/view?usp=sharing)
