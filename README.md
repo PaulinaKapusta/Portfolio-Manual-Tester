@@ -41,7 +41,7 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
-* [softwaretestinghelp.com] (https://www.softwaretestinghelp.com/)
+* [softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
 
 ## Attachments
 * [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- Detailed list of specific checks for each functionality (on the example of one module) 
