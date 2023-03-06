@@ -44,4 +44,5 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * [softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
 
 ## Attachments
-* [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- Detailed list of specific checks for each functionality (on the example of one module) 
+* [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- A detailed list of specific checks for each functionality (on the example of one module) 
+* [Postman](https://drive.google.com/file/d/1DXH8-zjA_Tk3ihnykZpMPhwxB39JjLe3/view?usp=share_link) - A collection based on the trello API documentation. Examples of test scripts. GET, POST, PUT, DELETE methods.
