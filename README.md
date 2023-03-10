@@ -45,6 +45,6 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 
 ## Attachments
 * [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- A detailed list of specific checks for each functionality (on the example of one module) 
-*[Example bug reports](https://drive.google.com/drive/folders/1F1rUO3mN_RtHi2Bj7-o1HyPjQItIL46w?usp=sharing)
+* [Example bug reports](https://drive.google.com/drive/folders/1F1rUO3mN_RtHi2Bj7-o1HyPjQItIL46w?usp=sharing)
 * [Quality report](https://drive.google.com/file/d/1XbamCLbnOb0IizAv-Unb0citI-Rbhohc/view?usp=sharing)
 * [Postman](https://drive.google.com/file/d/1DXH8-zjA_Tk3ihnykZpMPhwxB39JjLe3/view?usp=share_link) - A collection based on the trello API documentation. Examples of test scripts. GET, POST, PUT, DELETE methods.
