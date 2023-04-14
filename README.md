@@ -44,8 +44,12 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * [softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
 
 ## Attachments
-* [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- A detailed list of specific checks for each functionality (on the example of one module) 
+* [Test Survey Documentation](https://drive.google.com/drive/folders/1G_oi4rCjuAKXWIleZiRF5B-f8We9aV0m?usp=sharing)- a detailed list of specific checks for each functionality (on the example of one module) 
 * [Example bug reports](https://drive.google.com/drive/folders/1F1rUO3mN_RtHi2Bj7-o1HyPjQItIL46w?usp=sharing)
 * [Quality report](https://drive.google.com/file/d/1XbamCLbnOb0IizAv-Unb0citI-Rbhohc/view?usp=sharing)
-* [Postman](https://drive.google.com/file/d/1DXH8-zjA_Tk3ihnykZpMPhwxB39JjLe3/view?usp=share_link) - A collection based on the trello API documentation. Examples of test scripts. GET, POST, PUT, DELETE methods.
-*Created website templates[ksiegowa-alicja.pl](https://www.ksiegowa-alicja.pl/); [jerzybrunowski.pl](http://www.jerzybrunowski.pl/)
+* [Postman](https://drive.google.com/file/d/1DXH8-zjA_Tk3ihnykZpMPhwxB39JjLe3/view?usp=share_link) - a collection based on the trello API documentation. Examples of test scripts. GET, POST, PUT, DELETE methods.
+* [ksiegowa-alicja.pl](https://www.ksiegowa-alicja.pl/) and [jerzybrunowski.pl](http://www.jerzybrunowski.pl/) - website templates based on HTML, CSS, Bootstrap, JavaScript
+* [arch-bud.com](https://arch-bud.com/) - website based on CMS Wordpress
+* [Sample SQL queries](https://docs.google.com/document/d/1hWuIH5g49yrygEm-V-2uYwjM8SLd3kkXVls1pLwq4o8/edit?usp=sharing) on the example of the [W3schools database](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+  
+
