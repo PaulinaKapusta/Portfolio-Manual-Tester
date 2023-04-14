@@ -31,6 +31,7 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
 * [ISTQB Foundation Level 2023 Complete Training](https://www.udemy.com/course/foundation-level-training/)
+* [15 Days of SQL: The Complete SQL Masterclass 2023](https://www.udemy.com/course/15-days-of-sql/)
 
 ## Test documentation
 
