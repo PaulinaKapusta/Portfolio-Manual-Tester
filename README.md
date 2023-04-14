@@ -3,7 +3,7 @@
 
 My name is Paulina. A few months ago I decided to retrain and start working as a manual tester.
 I always felt more technical as a person and in the past I was interested in web development. I worked as a Project Manager in a marketing agency for several years.
-I coordinated the creation of websites and my job was a related to testing (**one of my main responsibilities was testing features and verifying site functionality and responsiveness**).
+I coordinated the creation of websites and my job was related to testing (**one of my main responsibilities was testing features and verifying site functionality and responsiveness**).
 
 I have devoted the last six months to intensive study and acquired theoretical knowledge about testing.
 The sources of my knowledge were the publications of **experienced mentors/testers, professional courses and the ISTQB syllabus**.
@@ -48,3 +48,4 @@ The internship confirmed my belief that the job of a tester is right for me. I l
 * [Example bug reports](https://drive.google.com/drive/folders/1F1rUO3mN_RtHi2Bj7-o1HyPjQItIL46w?usp=sharing)
 * [Quality report](https://drive.google.com/file/d/1XbamCLbnOb0IizAv-Unb0citI-Rbhohc/view?usp=sharing)
 * [Postman](https://drive.google.com/file/d/1DXH8-zjA_Tk3ihnykZpMPhwxB39JjLe3/view?usp=share_link) - A collection based on the trello API documentation. Examples of test scripts. GET, POST, PUT, DELETE methods.
+*Created website templates[ksiegowa-alicja.pl](https://www.ksiegowa-alicja.pl/); [jerzybrunowski.pl](http://www.jerzybrunowski.pl/)
